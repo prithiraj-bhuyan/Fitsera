@@ -55,7 +55,7 @@ Install "Handsfree for web" google chrome extensipn, which would be present in t
 
 
 ## Usage
-To run the project, go to the root directory of the project (within the conda virtual environment setup for the project) and type
+To run the project, open Anaconda prompt and go to the root directory of the project (within the conda virtual environment setup for the project), and type
 ```bash
 nodemon server.js
 ```
