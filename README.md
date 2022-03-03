@@ -65,4 +65,29 @@ Once the message in the console prints "App started on port 3000", in the URL se
 
 ## Output
 ![image](https://user-images.githubusercontent.com/51831161/156632097-8c5fde36-5e4f-4554-9c3c-390215468ea4.png)
+
 Home Page
+
+![image](https://user-images.githubusercontent.com/51831161/156632432-a8e0f366-6240-4d3f-9fa9-408f7d114a87.png)
+
+Sign Up Page
+
+![image](https://user-images.githubusercontent.com/51831161/156632611-2185f377-d8de-4c52-8e59-3c267130b88f.png)
+
+Login Page
+
+![image](https://user-images.githubusercontent.com/51831161/156632769-d3d1f2f2-052e-418c-b6a5-58000a780d7e.png)
+
+Landing Page
+
+![image](https://user-images.githubusercontent.com/51831161/156632878-8e051f82-ee52-4ba7-a171-8b2795da4b81.png)
+
+Venues to book (Recommendations)
+
+![image](https://user-images.githubusercontent.com/51831161/156632998-e4eb75d0-75bc-43ba-8217-d25bfd98ec57.png)
+
+Select Date
+
+![image](https://user-images.githubusercontent.com/51831161/156633109-b9f67f18-27a0-4341-8ad4-1ebdafd63cbd.png)
+
+Home Workout Pose Correction
