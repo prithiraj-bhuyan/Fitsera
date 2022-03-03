@@ -61,3 +61,8 @@ nodemon server.js
 ```
 The application takes atleast 3 min to start. Along with that, open the 'Handsfree for Web" extension, which is installed in the Chrome browser.
 Once the message in the console prints "App started on port 3000", in the URL section of the browser, type [http://localhost:3000/](http://localhost:3000/)
+
+
+## Output
+![image](https://user-images.githubusercontent.com/51831161/156632097-8c5fde36-5e4f-4554-9c3c-390215468ea4.png)
+Home Page
