@@ -51,7 +51,7 @@ Data of different grounds must be filled into the GROUNDS table of the database 
 ![Alt Text](/public/images/Capture2.JPG)
 
 ### Speech interface:
-Install "Handsfree for web" google chrome extensipn, which would be present in the chrome extension store.
+Install "Handsfree for web" google chrome extension, which would be present in the chrome extension store.
 
 
 ## Usage
