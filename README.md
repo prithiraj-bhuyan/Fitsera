@@ -1,4 +1,4 @@
-# Sportsera
+# Fitsera
 
 This web application enables the user to book a sporting venue of their choice, which are recommended based on the safety guidelines published by the Government. This application also provides a feature of monitoring the correctness while performing an exercise routine at home itself.
 ## Installation & Setup
